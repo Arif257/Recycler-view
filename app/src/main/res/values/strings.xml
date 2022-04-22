@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+
+    <string-array name="country_des">
+        <item>Afghanistan is a beautiful</item>
+        <item>Armenia is a beautiful</item>
+        <item>Azerbaijan is a beautiful</item>
+        <item>Bahrain is a beautiful</item>
+        <item>Bangladesh is a beautiful</item>
+        <item>Bhutan is a beautiful</item>
+        <item>China is a beautiful</item>
+        <item>India is a beautiful</item>
+        <item>Japan is a beautiful</item>
+        <item>Nepal is a beautiful</item>
+        <item>Pakistan is a beautiful</item>
+        <item>Srilanka is a beautiful</item>
+    </string-array>
+
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Srilanka</item>
+    </string-array>
+
+</resources>

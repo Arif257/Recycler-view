@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="5dp"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/myImageViewId"
+        android:src="@drawable/bangladesh"
+        android:layout_margin="5dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"/>
+    <LinearLayout
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/titleTextViewId"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:text="Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/descriptionTextViewId"
+            android:layout_margin="5dp"
+            android:text="desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
